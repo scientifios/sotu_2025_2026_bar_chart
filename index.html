@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Q2: Changes between 2025 and 2026 State of the Union Addresses</title>
+  <link rel="stylesheet" href="src/style.css" />
+</head>
+<body>
+  <header>
+    <div>
+      <p class="eyebrow">Text Mining → Text Visualization</p>
+      <h1>Q2: What changed between the 2025 and 2026 State of the Union addresses?</h1>
+      <p class="subtitle">Topic keywords are extracted with a Bag-of-Words / n-gram + TF-IDF-inspired workflow, then grouped into semantic buckets using a Vector Space Model style clustering idea.</p>
+    </div>
+  </header>
+
+  <section class="story">
+    <h2>Storytelling focus</h2>
+    <p>
+      This mirrored bar chart compares the two addresses around the same topic axis. The upper bars represent 2026, while the lower bars represent 2025.
+      The chart makes it easy to see which topics increased, decreased, or stayed central. In this result, 2026 shifts more toward anniversary/national identity,
+      affordability, health care, and institutional claims, while 2025 emphasizes first-year executive action, border control, tariffs, energy, and government efficiency.
+    </p>
+    <p>
+      Colors encode semantic buckets. Subtopics under the same bucket use related shades, so the reader can compare detailed topics while still seeing larger themes.
+      Hover over any topic label or bar to highlight both years and show the topic name at the top center of the visualization.
+    </p>
+  </section>
+
+  <main class="viz-card">
+    <div class="toolbar">
+      <button class="filter active" data-filter="all">All topics</button>
+      <button class="filter" data-filter="increased">Increased in 2026</button>
+      <button class="filter" data-filter="decreased">Decreased in 2026</button>
+      <button class="filter" data-filter="shared">Strong in both</button>
+    </div>
+    <div id="legend"></div>
+    <div id="chart"></div>
+    <aside id="details">
+      <h3>Hover a topic</h3>
+      <p>Move the mouse over a topic label or bar to compare 2025 and 2026.</p>
+    </aside>
+  </main>
+
+  <section class="method">
+    <h2>Method used</h2>
+    <ol>
+      <li><b>Pre-processing:</b> lowercasing, stop-word removal conceptually, phrase matching, and topic n-grams.</li>
+      <li><b>Feature weighting:</b> topic frequency is counted from extracted keyword sets; the design follows the course idea that TF-IDF helps identify discriminative terms.</li>
+      <li><b>Semantic clustering:</b> related topic features are placed into broader buckets, similar to using a Vector Space Model and clustering by semantic similarity.</li>
+      <li><b>Visualization:</b> a mirrored categorical bar chart shows 2026 above and 2025 below the same topic axis.</li>
+    </ol>
+  </section>
+
+  <script src="src/app.js"></script>
+</body>
+</html>

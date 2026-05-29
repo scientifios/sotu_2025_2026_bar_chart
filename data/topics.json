@@ -1,0 +1,2007 @@
+{
+  "buckets": {
+    "Economic Affordability": {
+      "base": "#4E79A7",
+      "topics": {
+        "Inflation & Prices": [
+          "inflation",
+          "price",
+          "prices",
+          "affordable",
+          "affordability",
+          "cost",
+          "costs",
+          "grocery",
+          "groceries",
+          "egg",
+          "eggs",
+          "beef"
+        ],
+        "Taxes & Income": [
+          "tax",
+          "taxes",
+          "tax cut",
+          "income",
+          "tips",
+          "overtime",
+          "social security benefits",
+          "child tax credit",
+          "deductible"
+        ],
+        "Jobs & Investment": [
+          "jobs",
+          "job",
+          "investment",
+          "investing",
+          "factories",
+          "plants",
+          "construction jobs",
+          "private sector",
+          "businesses"
+        ],
+        "Tariffs & Trade": [
+          "tariff",
+          "tariffs",
+          "trade",
+          "reciprocal",
+          "import",
+          "imports",
+          "export",
+          "manufacturing",
+          "domestic production"
+        ],
+        "Energy Costs": [
+          "energy",
+          "oil",
+          "gas",
+          "gasoline",
+          "natural gas",
+          "drill",
+          "power",
+          "electricity",
+          "pipeline"
+        ]
+      }
+    },
+    "Border & Security": {
+      "base": "#F28E2B",
+      "topics": {
+        "Border Enforcement": [
+          "border",
+          "borders",
+          "illegal alien",
+          "illegal aliens",
+          "immigration",
+          "deportation",
+          "deported",
+          "sanctuary",
+          "invasion"
+        ],
+        "Crime & Law Order": [
+          "crime",
+          "criminal",
+          "criminals",
+          "murder",
+          "murderers",
+          "police",
+          "law enforcement",
+          "justice",
+          "repeat offenders"
+        ],
+        "Drugs & Cartels": [
+          "fentanyl",
+          "drug",
+          "drugs",
+          "cartel",
+          "cartels",
+          "gang",
+          "gangs",
+          "traffickers",
+          "ms-13"
+        ],
+        "Military & Defense": [
+          "military",
+          "soldiers",
+          "veterans",
+          "defense",
+          "army",
+          "navy",
+          "border patrol",
+          "coast guard"
+        ]
+      }
+    },
+    "Government & Institutions": {
+      "base": "#59A14F",
+      "topics": {
+        "Government Efficiency": [
+          "government",
+          "bureaucracy",
+          "federal workers",
+          "regulations",
+          "waste",
+          "fraud",
+          "DOGE",
+          "efficiency"
+        ],
+        "Elections & Democracy": [
+          "election",
+          "elections",
+          "vote",
+          "voter",
+          "ballots",
+          "citizenship",
+          "democracy",
+          "mandate"
+        ],
+        "Rights & Culture": [
+          "DEI",
+          "gender",
+          "women's sports",
+          "free speech",
+          "religion",
+          "Christianity",
+          "critical race theory",
+          "woke"
+        ],
+        "Congress & Lawmaking": [
+          "Congress",
+          "bill",
+          "act",
+          "law",
+          "pass",
+          "legislation",
+          "Speaker",
+          "Senate"
+        ]
+      }
+    },
+    "Health & Social Policy": {
+      "base": "#E15759",
+      "topics": {
+        "Health Care & Drugs": [
+          "health care",
+          "healthcare",
+          "prescription drugs",
+          "drug prices",
+          "Obamacare",
+          "insurance",
+          "IVF",
+          "TrumpRx"
+        ],
+        "Social Security & Medicare": [
+          "Social Security",
+          "Medicare",
+          "Medicaid",
+          "seniors",
+          "retirement",
+          "401(k)"
+        ],
+        "Children & Families": [
+          "children",
+          "child",
+          "family",
+          "families",
+          "parents",
+          "foster",
+          "school",
+          "education"
+        ],
+        "Housing & Homeownership": [
+          "housing",
+          "homes",
+          "home",
+          "mortgage",
+          "rent",
+          "homeownership",
+          "single-family"
+        ]
+      }
+    },
+    "Foreign Policy & Global Role": {
+      "base": "#B07AA1",
+      "topics": {
+        "War & Peace": [
+          "war",
+          "wars",
+          "peace",
+          "Ukraine",
+          "Russia",
+          "Putin",
+          "NATO",
+          "Iran"
+        ],
+        "Global Competition": [
+          "China",
+          "foreign countries",
+          "world",
+          "allies",
+          "global",
+          "countries",
+          "America first"
+        ],
+        "International Organizations": [
+          "World Health Organization",
+          "U.N.",
+          "United Nations",
+          "Paris climate accord",
+          "foreign aid"
+        ]
+      }
+    },
+    "National Identity & Celebration": {
+      "base": "#EDC948",
+      "topics": {
+        "American Dream": [
+          "American dream",
+          "America is back",
+          "golden age",
+          "great again",
+          "winning",
+          "comeback"
+        ],
+        "250th Anniversary": [
+          "250th",
+          "July 4",
+          "independence",
+          "1776",
+          "anniversary",
+          "freedom",
+          "liberty"
+        ],
+        "Heroes & Guests": [
+          "hero",
+          "heroes",
+          "guest",
+          "gallery",
+          "medal",
+          "Olympics",
+          "World Cup",
+          "athlete"
+        ]
+      }
+    }
+  },
+  "topics": [
+    {
+      "bucket": "Economic Affordability",
+      "topic": "Jobs & Investment",
+      "year2025": 36,
+      "year2026": 26,
+      "terms": [
+        "jobs",
+        "job",
+        "investment",
+        "investing",
+        "factories",
+        "plants",
+        "construction jobs",
+        "private sector",
+        "businesses"
+      ],
+      "details2025": [
+        [
+          "job",
+          19
+        ],
+        [
+          "jobs",
+          5
+        ],
+        [
+          "investment",
+          5
+        ],
+        [
+          "plants",
+          5
+        ],
+        [
+          "private sector",
+          1
+        ],
+        [
+          "businesses",
+          1
+        ]
+      ],
+      "details2026": [
+        [
+          "job",
+          7
+        ],
+        [
+          "investment",
+          6
+        ],
+        [
+          "jobs",
+          5
+        ],
+        [
+          "factories",
+          2
+        ],
+        [
+          "plants",
+          2
+        ],
+        [
+          "investing",
+          1
+        ],
+        [
+          "construction jobs",
+          1
+        ],
+        [
+          "private sector",
+          1
+        ]
+      ],
+      "snippets2025": [
+        "They will either show up for work in person or be removed from their job.",
+        "We've ended the tyranny of so-called diversity, equity, and inclusion policies all across the entire Federal Government and, indeed, the private sector and our military.",
+        "The previous administration cut the number of new oil and gas leases by 95 percent, slowed pipeline construction to a halt, and closed more than 100 power plants."
+      ],
+      "snippets2026": [
+        "In 4 long years, the last administration got less than $1 trillion in new investment in the United States.",
+        "As thousands of new businesses are forming and factories, plants, and laboratories are being built, we have added 70,000 new construction jobs in just a very short period of time.",
+        "And 100 percent of all jobs created under my administration have been in the private sector."
+      ]
+    },
+    {
+      "bucket": "Economic Affordability",
+      "topic": "Inflation & Prices",
+      "year2025": 22,
+      "year2026": 33,
+      "terms": [
+        "inflation",
+        "price",
+        "prices",
+        "affordable",
+        "affordability",
+        "cost",
+        "costs",
+        "grocery",
+        "groceries",
+        "egg",
+        "eggs",
+        "beef"
+      ],
+      "details2025": [
+        [
+          "inflation",
+          7
+        ],
+        [
+          "cost",
+          4
+        ],
+        [
+          "price",
+          2
+        ],
+        [
+          "prices",
+          2
+        ],
+        [
+          "costs",
+          2
+        ],
+        [
+          "grocery",
+          2
+        ],
+        [
+          "affordable",
+          1
+        ],
+        [
+          "egg",
+          1
+        ]
+      ],
+      "details2026": [
+        [
+          "prices",
+          9
+        ],
+        [
+          "price",
+          7
+        ],
+        [
+          "cost",
+          7
+        ],
+        [
+          "inflation",
+          6
+        ],
+        [
+          "affordability",
+          1
+        ],
+        [
+          "costs",
+          1
+        ],
+        [
+          "eggs",
+          1
+        ],
+        [
+          "beef",
+          1
+        ]
+      ],
+      "snippets2025": [
+        "I terminated the ridiculous \"green new scam.\" I withdrew from the unfair Paris climate accord, which was costing us trillions of dollars that other countries were not paying.",
+        "We ended all of Biden's environmental restrictions that were making our country far less safe and totally unaffordable.",
+        "As you know, we inherited from the last administration an economic catastrophe and an inflation nightmare."
+      ],
+      "snippets2026": [
+        "When I last spoke in this Chamber 12 months ago, I had just inherited a nation in crisis, with a stagnant economy, inflation at record levels, a wide-open border, horrendous recruitment for military and police, rampant crime at home, and wars and chaos all over the world.",
+        "Today, our border is secure, our spirit is restored, inflation is plummeting, incomes are rising fast, the roaring economy is roaring like never before, and our enemies are scared, our military and police are stacked, and America is respected again, perhaps, like never before.",
+        "[Laughter] The Biden administration and its allies in Congress gave us the worst inflation in the history of our country."
+      ]
+    },
+    {
+      "bucket": "Economic Affordability",
+      "topic": "Taxes & Income",
+      "year2025": 22,
+      "year2026": 25,
+      "terms": [
+        "tax",
+        "taxes",
+        "tax cut",
+        "income",
+        "tips",
+        "overtime",
+        "social security benefits",
+        "child tax credit",
+        "deductible"
+      ],
+      "details2025": [
+        [
+          "tax",
+          15
+        ],
+        [
+          "taxes",
+          2
+        ],
+        [
+          "income",
+          1
+        ],
+        [
+          "tips",
+          1
+        ],
+        [
+          "overtime",
+          1
+        ],
+        [
+          "social security benefits",
+          1
+        ],
+        [
+          "deductible",
+          1
+        ]
+      ],
+      "details2026": [
+        [
+          "tax",
+          14
+        ],
+        [
+          "overtime",
+          4
+        ],
+        [
+          "tips",
+          2
+        ],
+        [
+          "taxes",
+          1
+        ],
+        [
+          "tax cut",
+          1
+        ],
+        [
+          "income",
+          1
+        ],
+        [
+          "child tax credit",
+          1
+        ],
+        [
+          "deductible",
+          1
+        ]
+      ],
+      "snippets2025": [
+        "To further combat inflation, we will not only be reducing the cost of energy, but we'll be ending the flagrant waste of taxpayer dollars.",
+        "[Laughter] And these people will have to pay tax in our country.",
+        "The money that they've made, you wouldn't want to do that, but they have to pay tax, create jobs."
+      ],
+      "snippets2026": [
+        "Today, our border is secure, our spirit is restored, inflation is plummeting, incomes are rising fast, the roaring economy is roaring like never before, and our enemies are scared, our military and police are stacked, and America is respected again, perhaps, like never before.",
+        "But they beat a fantastic Canadian team in overtime, as everybody saw, as did the American women, who will soon be coming to the White House.",
+        "Last year, I urged this Congress to begin the mission by passing the largest tax cuts in American history, and our Republican majorities delivered so beautifully."
+      ]
+    },
+    {
+      "bucket": "Economic Affordability",
+      "topic": "Energy Costs",
+      "year2025": 21,
+      "year2026": 22,
+      "terms": [
+        "energy",
+        "oil",
+        "gas",
+        "gasoline",
+        "natural gas",
+        "drill",
+        "power",
+        "electricity",
+        "pipeline"
+      ],
+      "details2025": [
+        [
+          "energy",
+          4
+        ],
+        [
+          "gas",
+          4
+        ],
+        [
+          "power",
+          4
+        ],
+        [
+          "oil",
+          3
+        ],
+        [
+          "drill",
+          2
+        ],
+        [
+          "pipeline",
+          2
+        ],
+        [
+          "natural gas",
+          1
+        ],
+        [
+          "electricity",
+          1
+        ]
+      ],
+      "details2026": [
+        [
+          "power",
+          5
+        ],
+        [
+          "electricity",
+          5
+        ],
+        [
+          "energy",
+          4
+        ],
+        [
+          "oil",
+          2
+        ],
+        [
+          "gasoline",
+          2
+        ],
+        [
+          "drill",
+          2
+        ],
+        [
+          "gas",
+          1
+        ],
+        [
+          "natural gas",
+          1
+        ]
+      ],
+      "snippets2025": [
+        "And the Supreme Court, in a brave and very powerful decision, has allowed us to do so.",
+        "Their policies drove up energy prices, pushed up grocery costs, and drove the necessities of life out of reach for millions and millions of Americans.",
+        "A major focus of our fight to defeat inflation is rapidly reducing the cost of energy."
+      ],
+      "snippets2026": [
+        "Gasoline, which reached a peak of over $6 a gallon in some States under my predecessor\u2014it was, quite honestly, a disaster\u2014is now below $2.30 a gallon in most States and, in some places, $1.99 a gallon.",
+        "And when I visited the great State of Iowa just a few weeks ago, I even saw $1.85 a gallon for gasoline.",
+        "American oil production is up by more than 600,000 barrels a day."
+      ]
+    },
+    {
+      "bucket": "Economic Affordability",
+      "topic": "Tariffs & Trade",
+      "year2025": 23,
+      "year2026": 6,
+      "terms": [
+        "tariff",
+        "tariffs",
+        "trade",
+        "reciprocal",
+        "import",
+        "imports",
+        "export",
+        "manufacturing",
+        "domestic production"
+      ],
+      "details2025": [
+        [
+          "tariffs",
+          11
+        ],
+        [
+          "tariff",
+          7
+        ],
+        [
+          "reciprocal",
+          2
+        ],
+        [
+          "trade",
+          1
+        ],
+        [
+          "manufacturing",
+          1
+        ],
+        [
+          "domestic production",
+          1
+        ]
+      ],
+      "details2026": [
+        [
+          "tariffs",
+          5
+        ],
+        [
+          "trade",
+          1
+        ]
+      ],
+      "snippets2025": [
+        "And importantly, we ended the last administration's insane electric vehicle mandate, saving our autoworkers and companies from economic destruction.",
+        "Never seen\u2014that's a combination of the election win and tariffs.",
+        "And this has taken place since our great victory on November 5, a date which will hopefully go down as one of the most important in the history of our country."
+      ],
+      "snippets2026": [
+        "All Democrats, every single one of them, voted against these really important and very necessary, massive tax cuts.",
+        "One of the primary reasons for our country's stunning economic turnaround, the biggest in history\u2014where the Dow Jones broke 50,000 4 years ahead of schedule and the S&P hit 7,000, where it wasn't supposed to do it for many years\u2014were tariffs.",
+        "I used these tariffs, took in hundreds of billions of dollars, to make great deals for our country, both economically and on a national security basis."
+      ]
+    },
+    {
+      "bucket": "Border & Security",
+      "topic": "Border Enforcement",
+      "year2025": 29,
+      "year2026": 30,
+      "terms": [
+        "border",
+        "borders",
+        "illegal alien",
+        "illegal aliens",
+        "immigration",
+        "deportation",
+        "deported",
+        "sanctuary",
+        "invasion"
+      ],
+      "details2025": [
+        [
+          "border",
+          16
+        ],
+        [
+          "borders",
+          3
+        ],
+        [
+          "illegal alien",
+          3
+        ],
+        [
+          "illegal aliens",
+          2
+        ],
+        [
+          "sanctuary",
+          2
+        ],
+        [
+          "immigration",
+          1
+        ],
+        [
+          "deportation",
+          1
+        ],
+        [
+          "invasion",
+          1
+        ]
+      ],
+      "details2026": [
+        [
+          "border",
+          9
+        ],
+        [
+          "borders",
+          7
+        ],
+        [
+          "illegal aliens",
+          6
+        ],
+        [
+          "illegal alien",
+          3
+        ],
+        [
+          "immigration",
+          3
+        ],
+        [
+          "sanctuary",
+          1
+        ],
+        [
+          "invasion",
+          1
+        ]
+      ],
+      "snippets2025": [
+        "Within hours of taking the oath of office, I declared a national emergency on our southern border, and I deployed the U.S.",
+        "military and Border Patrol to repel the invasion of our country.",
+        "As a result, illegal border crossings last month were, by far, the lowest ever recorded\u2014ever."
+      ],
+      "snippets2026": [
+        "When I last spoke in this Chamber 12 months ago, I had just inherited a nation in crisis, with a stagnant economy, inflation at record levels, a wide-open border, horrendous recruitment for military and police, rampant crime at home, and wars and chaos all over the world.",
+        "Today, our border is secure, our spirit is restored, inflation is plummeting, incomes are rising fast, the roaring economy is roaring like never before, and our enemies are scared, our military and police are stacked, and America is respected again, perhaps, like never before.",
+        "After 4 years in which millions and millions of illegal aliens poured across our borders totally unvetted and unchecked, we now have the strongest and most secure border in American history, by far."
+      ]
+    },
+    {
+      "bucket": "Border & Security",
+      "topic": "Crime & Law Order",
+      "year2025": 30,
+      "year2026": 25,
+      "terms": [
+        "crime",
+        "criminal",
+        "criminals",
+        "murder",
+        "murderers",
+        "police",
+        "law enforcement",
+        "justice",
+        "repeat offenders"
+      ],
+      "details2025": [
+        [
+          "police",
+          8
+        ],
+        [
+          "law enforcement",
+          4
+        ],
+        [
+          "crime",
+          3
+        ],
+        [
+          "criminal",
+          3
+        ],
+        [
+          "justice",
+          3
+        ],
+        [
+          "repeat offenders",
+          3
+        ],
+        [
+          "criminals",
+          2
+        ],
+        [
+          "murder",
+          2
+        ]
+      ],
+      "details2026": [
+        [
+          "crime",
+          5
+        ],
+        [
+          "criminal",
+          4
+        ],
+        [
+          "murderers",
+          4
+        ],
+        [
+          "criminals",
+          3
+        ],
+        [
+          "police",
+          2
+        ],
+        [
+          "law enforcement",
+          2
+        ],
+        [
+          "justice",
+          2
+        ],
+        [
+          "repeat offenders",
+          2
+        ]
+      ],
+      "snippets2025": [
+        "In comparison, under Joe Biden, the worst President in American history, there were hundreds of thousands of illegal crossings a month, and virtually all of them, including murderers, drug dealers, gang members, and people from mental institutions and insane asylums, were released into our country.",
+        "Many of them were murderers, human traffickers, gang members, and other criminals from the streets of dangerous cities all throughout the world.",
+        "That morning, Laken was viciously attacked, assaulted, beaten, brutalized, and horrifically murdered."
+      ],
+      "snippets2026": [
+        "When I last spoke in this Chamber 12 months ago, I had just inherited a nation in crisis, with a stagnant economy, inflation at record levels, a wide-open border, horrendous recruitment for military and police, rampant crime at home, and wars and chaos all over the world.",
+        "Today, our border is secure, our spirit is restored, inflation is plummeting, incomes are rising fast, the roaring economy is roaring like never before, and our enemies are scared, our military and police are stacked, and America is respected again, perhaps, like never before.",
+        "And last year, the murder rate saw its single largest decline in recorded history."
+      ]
+    },
+    {
+      "bucket": "Border & Security",
+      "topic": "Military & Defense",
+      "year2025": 18,
+      "year2026": 31,
+      "terms": [
+        "military",
+        "soldiers",
+        "veterans",
+        "defense",
+        "army",
+        "navy",
+        "border patrol",
+        "coast guard"
+      ],
+      "details2025": [
+        [
+          "military",
+          9
+        ],
+        [
+          "defense",
+          4
+        ],
+        [
+          "border patrol",
+          4
+        ],
+        [
+          "army",
+          1
+        ]
+      ],
+      "details2026": [
+        [
+          "military",
+          22
+        ],
+        [
+          "soldiers",
+          3
+        ],
+        [
+          "army",
+          2
+        ],
+        [
+          "navy",
+          2
+        ],
+        [
+          "defense",
+          1
+        ],
+        [
+          "coast guard",
+          1
+        ]
+      ],
+      "snippets2025": [
+        "military and Border Patrol to repel the invasion of our country.",
+        "We've ended the tyranny of so-called diversity, equity, and inclusion policies all across the entire Federal Government and, indeed, the private sector and our military.",
+        "And I have also imposed a 25-percent tariff on foreign aluminum, copper, lumber, and steel, because if we don't have, as an example, steel and lots of other things, we don't have a military and, frankly, won't have\u2014we just won't have a country very long."
+      ],
+      "snippets2026": [
+        "When I last spoke in this Chamber 12 months ago, I had just inherited a nation in crisis, with a stagnant economy, inflation at record levels, a wide-open border, horrendous recruitment for military and police, rampant crime at home, and wars and chaos all over the world.",
+        "Today, our border is secure, our spirit is restored, inflation is plummeting, incomes are rising fast, the roaring economy is roaring like never before, and our enemies are scared, our military and police are stacked, and America is respected again, perhaps, like never before.",
+        "Those prayers were answered when Coast Guard rescue swimmer Scott Ruskan descended from a helicopter above."
+      ]
+    },
+    {
+      "bucket": "Border & Security",
+      "topic": "Drugs & Cartels",
+      "year2025": 20,
+      "year2026": 16,
+      "terms": [
+        "fentanyl",
+        "drug",
+        "drugs",
+        "cartel",
+        "cartels",
+        "gang",
+        "gangs",
+        "traffickers",
+        "ms-13"
+      ],
+      "details2025": [
+        [
+          "gang",
+          6
+        ],
+        [
+          "cartels",
+          4
+        ],
+        [
+          "fentanyl",
+          2
+        ],
+        [
+          "drug",
+          2
+        ],
+        [
+          "cartel",
+          2
+        ],
+        [
+          "traffickers",
+          2
+        ],
+        [
+          "drugs",
+          1
+        ],
+        [
+          "ms-13",
+          1
+        ]
+      ],
+      "details2026": [
+        [
+          "drugs",
+          6
+        ],
+        [
+          "drug",
+          5
+        ],
+        [
+          "fentanyl",
+          2
+        ],
+        [
+          "cartels",
+          2
+        ],
+        [
+          "cartel",
+          1
+        ]
+      ],
+      "snippets2025": [
+        "In comparison, under Joe Biden, the worst President in American history, there were hundreds of thousands of illegal crossings a month, and virtually all of them, including murderers, drug dealers, gang members, and people from mental institutions and insane asylums, were released into our country.",
+        "But even more importantly, they have allowed fentanyl to come into our country at levels never seen before, killing hundreds of thousands of our citizens and many very young, beautiful people, destroying families.",
+        "Many of them were murderers, human traffickers, gang members, and other criminals from the streets of dangerous cities all throughout the world."
+      ],
+      "snippets2026": [
+        "The flow of deadly fentanyl across our border is down by a record 56 percent in 1 year.",
+        "I'm also ending the wildly inflated cost of prescription drugs like has never happened before.",
+        "Under my just-enacted most-favored-nation agreements, Americans\u2014who have for decades paid, by far, the highest prices of any nation anywhere in the world for prescription drugs\u2014will now pay the lowest price anywhere in the world for drugs."
+      ]
+    },
+    {
+      "bucket": "Government & Institutions",
+      "topic": "Congress & Lawmaking",
+      "year2025": 55,
+      "year2026": 33,
+      "terms": [
+        "Congress",
+        "bill",
+        "act",
+        "law",
+        "pass",
+        "legislation",
+        "Speaker",
+        "Senate"
+      ],
+      "details2025": [
+        [
+          "Congress",
+          14
+        ],
+        [
+          "law",
+          12
+        ],
+        [
+          "Speaker",
+          11
+        ],
+        [
+          "bill",
+          5
+        ],
+        [
+          "act",
+          5
+        ],
+        [
+          "pass",
+          3
+        ],
+        [
+          "Senate",
+          3
+        ],
+        [
+          "legislation",
+          2
+        ]
+      ],
+      "details2026": [
+        [
+          "Congress",
+          13
+        ],
+        [
+          "law",
+          6
+        ],
+        [
+          "pass",
+          4
+        ],
+        [
+          "bill",
+          3
+        ],
+        [
+          "act",
+          3
+        ],
+        [
+          "legislation",
+          3
+        ],
+        [
+          "Speaker",
+          1
+        ]
+      ],
+      "snippets2025": [
+        "Speaker Johnson, Vice President Vance, the First Lady of the United States, Members of the United States Congress: Thank you very much.",
+        "From that moment on, it has been nothing but swift and unrelenting action to usher in the greatest and most successful era in the history of our country.",
+        "In fact, it's an astonishing record: 27-point swing, the most ever."
+      ],
+      "snippets2026": [
+        "Speaker Johnson; Vice President Vance; First Lady of the United States; Second Lady of the United States; Members of Congress; and my fellow Americans, our Nation is back bigger, better, richer, and stronger than ever before.",
+        "In fact, substantially before my wonderful father\u2014I had a wonderful father, Fred.",
+        "[Laughter] The Biden administration and its allies in Congress gave us the worst inflation in the history of our country."
+      ]
+    },
+    {
+      "bucket": "Government & Institutions",
+      "topic": "Government Efficiency",
+      "year2025": 26,
+      "year2026": 8,
+      "terms": [
+        "government",
+        "bureaucracy",
+        "federal workers",
+        "regulations",
+        "waste",
+        "fraud",
+        "DOGE",
+        "efficiency"
+      ],
+      "details2025": [
+        [
+          "government",
+          9
+        ],
+        [
+          "regulations",
+          4
+        ],
+        [
+          "fraud",
+          4
+        ],
+        [
+          "waste",
+          3
+        ],
+        [
+          "bureaucracy",
+          2
+        ],
+        [
+          "federal workers",
+          2
+        ],
+        [
+          "DOGE",
+          1
+        ],
+        [
+          "efficiency",
+          1
+        ]
+      ],
+      "details2026": [
+        [
+          "government",
+          5
+        ],
+        [
+          "fraud",
+          2
+        ],
+        [
+          "regulations",
+          1
+        ]
+      ],
+      "snippets2025": [
+        "Upon taking office, I imposed an immediate freeze on all Federal hiring, a freeze on all new Federal regulations, and a freeze on all foreign aid.",
+        "To unshackle our economy, I have directed that for every 1 new regulation, 10 old regulations must be eliminated, just like I did in my very successful first term.",
+        "And in that first term, we set records on ending unnecessary rules and regulations like no other President had done before."
+      ],
+      "snippets2026": [
+        "Together, we're building a nation where every child has the chance to reach higher and go further; where Government answers to the people, not the powerful; and where the interests of hardworking American citizens are always our first and ultimate concern.",
+        "So tonight, although it started 4 months ago, I am officially announcing the war on fraud to be led by our great Vice President, J.D.",
+        "And if we're able to find enough of that fraud, we will actually have a balanced budget overnight."
+      ]
+    },
+    {
+      "bucket": "Government & Institutions",
+      "topic": "Elections & Democracy",
+      "year2025": 16,
+      "year2026": 13,
+      "terms": [
+        "election",
+        "elections",
+        "vote",
+        "voter",
+        "ballots",
+        "citizenship",
+        "democracy",
+        "mandate"
+      ],
+      "details2025": [
+        [
+          "mandate",
+          6
+        ],
+        [
+          "vote",
+          4
+        ],
+        [
+          "election",
+          3
+        ],
+        [
+          "voter",
+          1
+        ],
+        [
+          "citizenship",
+          1
+        ],
+        [
+          "democracy",
+          1
+        ]
+      ],
+      "details2026": [
+        [
+          "vote",
+          6
+        ],
+        [
+          "elections",
+          2
+        ],
+        [
+          "voter",
+          2
+        ],
+        [
+          "election",
+          1
+        ],
+        [
+          "ballots",
+          1
+        ],
+        [
+          "citizenship",
+          1
+        ]
+      ],
+      "snippets2025": [
+        "The Presidential election of November 5 was a mandate like has not been seen in many decades.",
+        "We won all seven swing States, giving us an electoral college victory of 312 votes.",
+        "[Members of Congress sang \"Na Na Hey Hey Kiss Him Goodbye.\"] [Several Members of Congress spoke at once.] You have no mandate."
+      ],
+      "snippets2026": [
+        "The stock market has set 53 alltime record highs since the election\u2014think of that, 1 year\u2014boosting pensions, 401(k)s, and retirement accounts for the millions and millions of Americans.",
+        "But I have to say that\u2014and I told them this\u2014and we took a vote of the team.",
+        "I said, \"Anybody votes no, I'm not doing it.\" So they stood there, and they weren't about to say no, because I've never seen a goaltender play as well as goalie Connor Hellebuyck."
+      ]
+    },
+    {
+      "bucket": "Government & Institutions",
+      "topic": "Rights & Culture",
+      "year2025": 7,
+      "year2026": 6,
+      "terms": [
+        "DEI",
+        "gender",
+        "women's sports",
+        "free speech",
+        "religion",
+        "Christianity",
+        "critical race theory",
+        "woke"
+      ],
+      "details2025": [
+        [
+          "woke",
+          2
+        ],
+        [
+          "DEI",
+          1
+        ],
+        [
+          "gender",
+          1
+        ],
+        [
+          "women's sports",
+          1
+        ],
+        [
+          "free speech",
+          1
+        ],
+        [
+          "critical race theory",
+          1
+        ]
+      ],
+      "details2026": [
+        [
+          "gender",
+          2
+        ],
+        [
+          "religion",
+          2
+        ],
+        [
+          "DEI",
+          1
+        ],
+        [
+          "Christianity",
+          1
+        ]
+      ],
+      "snippets2025": [
+        "And I have stopped all Government censorship and brought back free speech in America.",
+        "We believe that whether you are a doctor, an accountant, a lawyer, or an air traffic controller, you should be hired and promoted based on skill and competence, not race or gender.",
+        "We have removed the poison of critical race theory from our public schools."
+      ],
+      "snippets2026": [
+        "In 2021, Sage was 14 when school officials in Virginia sought to socially transition her to a new gender\u2014treating her as a boy\u2014and hiding it from her parents.",
+        "But surely, we can all agree: No State can be allowed to rip children from their parents' arms and transition them to a new gender against the parents' will.",
+        "I'm very proud to say that during my time in office, both the first 4 years and, in particular, this last year, there has been a tremendous renewal in religion, faith, Christianity, and belief in God."
+      ]
+    },
+    {
+      "bucket": "Health & Social Policy",
+      "topic": "Children & Families",
+      "year2025": 33,
+      "year2026": 30,
+      "terms": [
+        "children",
+        "child",
+        "family",
+        "families",
+        "parents",
+        "foster",
+        "school",
+        "education"
+      ],
+      "details2025": [
+        [
+          "children",
+          10
+        ],
+        [
+          "child",
+          6
+        ],
+        [
+          "school",
+          5
+        ],
+        [
+          "families",
+          4
+        ],
+        [
+          "family",
+          2
+        ],
+        [
+          "parents",
+          2
+        ],
+        [
+          "foster",
+          2
+        ],
+        [
+          "education",
+          2
+        ]
+      ],
+      "details2026": [
+        [
+          "parents",
+          8
+        ],
+        [
+          "family",
+          7
+        ],
+        [
+          "children",
+          6
+        ],
+        [
+          "child",
+          3
+        ],
+        [
+          "school",
+          3
+        ],
+        [
+          "foster",
+          2
+        ],
+        [
+          "families",
+          1
+        ]
+      ],
+      "snippets2025": [
+        "We have removed the poison of critical race theory from our public schools.",
+        "Three years ago, Payton McNabb was an all-star high school athlete\u2014one of the best\u2014preparing for a future in college sports.",
+        "And, Payton, from now on, schools will kick the men off the girls' team or they will lose all Federal funding."
+      ],
+      "snippets2026": [
+        "Buddy earned many honors, including a Purple Heart and a Bronze Star, came home, started a family, and tonight, he is in the gallery looking forward to July 4, 2026: his 100th birthday.",
+        "Together, we're building a nation where every child has the chance to reach higher and go further; where Government answers to the people, not the powerful; and where the interests of hardworking American citizens are always our first and ultimate concern.",
+        "Recently in Pennsylvania I met Megan Hemhauser, a devoted mom who's\u2014homeschools her children\u2014beautiful two children\u2014during the day while waiting tables at night, as her husband works overtime operating very heavy equipment."
+      ]
+    },
+    {
+      "bucket": "Health & Social Policy",
+      "topic": "Housing & Homeownership",
+      "year2025": 7,
+      "year2026": 21,
+      "terms": [
+        "housing",
+        "homes",
+        "home",
+        "mortgage",
+        "rent",
+        "homeownership",
+        "single-family"
+      ],
+      "details2025": [
+        [
+          "home",
+          4
+        ],
+        [
+          "housing",
+          1
+        ],
+        [
+          "homes",
+          1
+        ],
+        [
+          "mortgage",
+          1
+        ]
+      ],
+      "details2026": [
+        [
+          "home",
+          10
+        ],
+        [
+          "homes",
+          4
+        ],
+        [
+          "mortgage",
+          2
+        ],
+        [
+          "rent",
+          2
+        ],
+        [
+          "housing",
+          1
+        ],
+        [
+          "homeownership",
+          1
+        ],
+        [
+          "single-family",
+          1
+        ]
+      ],
+      "snippets2025": [
+        "Just listen to some of the appalling waste we have already identified: $22 billion from HHS to provide free housing and cars for illegal aliens; $45 million for diversity, equity, and inclusion scholarships in Burma; $40 million to improve the social and economic inclusion of sedentary migrants.",
+        "By slashing all of the fraud, waste, and theft we can find, we will defeat inflation, bring down mortgage rates, lower car payments and grocery prices, protect our seniors, and put more money in the pockets of American families.",
+        "Our new trade policy will also be great for the American farmer\u2014I love the farmer\u2014who will now be selling into our home market, the U.S.A., because nobody is going to be able to compete with you."
+      ],
+      "snippets2026": [
+        "When I last spoke in this Chamber 12 months ago, I had just inherited a nation in crisis, with a stagnant economy, inflation at record levels, a wide-open border, horrendous recruitment for military and police, rampant crime at home, and wars and chaos all over the world.",
+        "Mortgage rates are the lowest in 4 years and falling fast, and the annual cost of a typical new mortgage is down almost $5,000 just since I took office.",
+        "And low interest rates will solve the Biden-created housing problem while, at the same time, protecting the values of those people who already own a house that really feel rich for the first time in their lives."
+      ]
+    },
+    {
+      "bucket": "Health & Social Policy",
+      "topic": "Social Security & Medicare",
+      "year2025": 12,
+      "year2026": 15,
+      "terms": [
+        "Social Security",
+        "Medicare",
+        "Medicaid",
+        "seniors",
+        "retirement",
+        "401(k)"
+      ],
+      "details2025": [
+        [
+          "Social Security",
+          5
+        ],
+        [
+          "seniors",
+          4
+        ],
+        [
+          "Medicaid",
+          3
+        ]
+      ],
+      "details2026": [
+        [
+          "Social Security",
+          4
+        ],
+        [
+          "retirement",
+          4
+        ],
+        [
+          "Medicare",
+          2
+        ],
+        [
+          "seniors",
+          2
+        ],
+        [
+          "401(k)",
+          2
+        ],
+        [
+          "Medicaid",
+          1
+        ]
+      ],
+      "snippets2025": [
+        "We're also identifying shocking levels of incompetence and probable fraud in the Social Security program for our seniors and that our seniors and people that we love rely on.",
+        "Believe it or not, Government databases list 4.7 million Social Security members from people aged 100 to 109 years old.",
+        "But a lot of money is paid out to people because it just keeps getting paid and paid, and nobody does\u2014and it really hurts Social Security and hurts our country."
+      ],
+      "snippets2026": [
+        "The stock market has set 53 alltime record highs since the election\u2014think of that, 1 year\u2014boosting pensions, 401(k)s, and retirement accounts for the millions and millions of Americans.",
+        "But we held strong, and with the \"Great Big Beautiful Bill,\" we gave you no tax on tips, no tax on overtime, and no tax on Social Security for our great seniors.",
+        "We're also working to make it easier for Americans to save for retirement."
+      ]
+    },
+    {
+      "bucket": "Health & Social Policy",
+      "topic": "Health Care & Drugs",
+      "year2025": 0,
+      "year2026": 19,
+      "terms": [
+        "health care",
+        "healthcare",
+        "prescription drugs",
+        "drug prices",
+        "Obamacare",
+        "insurance",
+        "IVF",
+        "TrumpRx"
+      ],
+      "details2025": [],
+      "details2026": [
+        [
+          "health care",
+          7
+        ],
+        [
+          "insurance",
+          4
+        ],
+        [
+          "prescription drugs",
+          3
+        ],
+        [
+          "TrumpRx",
+          2
+        ],
+        [
+          "drug prices",
+          1
+        ],
+        [
+          "Obamacare",
+          1
+        ],
+        [
+          "IVF",
+          1
+        ]
+      ],
+      "snippets2025": [],
+      "snippets2026": [
+        "From trade to health care, from energy to immigration, everything was stolen and rigged in order to drain the wealth out of the productive, hard-working people who make our country great, who make our country run.",
+        "I'm also confronting one of the biggest rip-offs of our times: the crushing cost of health care\u2014caused by you.",
+        "I want to stop all payments to big insurance companies and instead give that money directly to the people so they can buy their own health care, which will be better health care at a much lower cost."
+      ]
+    },
+    {
+      "bucket": "Foreign Policy & Global Role",
+      "topic": "Global Competition",
+      "year2025": 29,
+      "year2026": 33,
+      "terms": [
+        "China",
+        "foreign countries",
+        "world",
+        "allies",
+        "global",
+        "countries",
+        "America first"
+      ],
+      "details2025": [
+        [
+          "world",
+          17
+        ],
+        [
+          "China",
+          6
+        ],
+        [
+          "countries",
+          5
+        ],
+        [
+          "America first",
+          1
+        ]
+      ],
+      "details2026": [
+        [
+          "world",
+          21
+        ],
+        [
+          "countries",
+          6
+        ],
+        [
+          "allies",
+          3
+        ],
+        [
+          "America first",
+          2
+        ],
+        [
+          "foreign countries",
+          1
+        ]
+      ],
+      "snippets2025": [
+        "The American dream is unstoppable, and our country is on the verge of a comeback, the likes of which the world has never witnessed and perhaps will never witness again.",
+        "I terminated the ridiculous \"green new scam.\" I withdrew from the unfair Paris climate accord, which was costing us trillions of dollars that other countries were not paying.",
+        "What I have just described is only a small fraction of the commonsense revolution that is now, because of us, sweeping the entire world."
+      ],
+      "snippets2026": [
+        "When I last spoke in this Chamber 12 months ago, I had just inherited a nation in crisis, with a stagnant economy, inflation at record levels, a wide-open border, horrendous recruitment for military and police, rampant crime at home, and wars and chaos all over the world.",
+        "[Laughter] The Biden administration and its allies in Congress gave us the worst inflation in the history of our country.",
+        "But strange things took place, and now I've got them, because I got the Olympics and I got the 2026 FIFA World Cup."
+      ]
+    },
+    {
+      "bucket": "Foreign Policy & Global Role",
+      "topic": "War & Peace",
+      "year2025": 21,
+      "year2026": 30,
+      "terms": [
+        "war",
+        "wars",
+        "peace",
+        "Ukraine",
+        "Russia",
+        "Putin",
+        "NATO",
+        "Iran"
+      ],
+      "details2025": [
+        [
+          "Ukraine",
+          8
+        ],
+        [
+          "peace",
+          5
+        ],
+        [
+          "war",
+          3
+        ],
+        [
+          "Russia",
+          3
+        ],
+        [
+          "wars",
+          1
+        ],
+        [
+          "Putin",
+          1
+        ]
+      ],
+      "details2026": [
+        [
+          "war",
+          14
+        ],
+        [
+          "wars",
+          3
+        ],
+        [
+          "peace",
+          3
+        ],
+        [
+          "Ukraine",
+          3
+        ],
+        [
+          "NATO",
+          3
+        ],
+        [
+          "Iran",
+          3
+        ],
+        [
+          "Russia",
+          1
+        ]
+      ],
+      "snippets2025": [
+        "And once it passes the House, I look forward to signing that bill into law.",
+        "Across Galveston Bay from where Jocelyn lived in Houston, you will find a magnificent national wildlife refuge\u2014a pristine, peaceful, 34,000-acre sanctuary for all of God's creatures on the edge of the Gulf of America.",
+        "With us this evening is a warrior on the front lines of that battle, Border Patrol agent Roberto Ortiz."
+      ],
+      "snippets2026": [
+        "When I last spoke in this Chamber 12 months ago, I had just inherited a nation in crisis, with a stagnant economy, inflation at record levels, a wide-open border, horrendous recruitment for military and police, rampant crime at home, and wars and chaos all over the world.",
+        "At age 17, Buddy volunteered to defend America in World War II, serving in the Pacific under the great General Douglas MacArthur.",
+        "Buddy earned many honors, including a Purple Heart and a Bronze Star, came home, started a family, and tonight, he is in the gallery looking forward to July 4, 2026: his 100th birthday."
+      ]
+    },
+    {
+      "bucket": "Foreign Policy & Global Role",
+      "topic": "International Organizations",
+      "year2025": 3,
+      "year2026": 0,
+      "terms": [
+        "World Health Organization",
+        "U.N.",
+        "United Nations",
+        "Paris climate accord",
+        "foreign aid"
+      ],
+      "details2025": [
+        [
+          "World Health Organization",
+          1
+        ],
+        [
+          "Paris climate accord",
+          1
+        ],
+        [
+          "foreign aid",
+          1
+        ]
+      ],
+      "details2026": [],
+      "snippets2025": [
+        "Upon taking office, I imposed an immediate freeze on all Federal hiring, a freeze on all new Federal regulations, and a freeze on all foreign aid.",
+        "I terminated the ridiculous \"green new scam.\" I withdrew from the unfair Paris climate accord, which was costing us trillions of dollars that other countries were not paying."
+      ],
+      "snippets2026": []
+    },
+    {
+      "bucket": "National Identity & Celebration",
+      "topic": "Heroes & Guests",
+      "year2025": 8,
+      "year2026": 24,
+      "terms": [
+        "hero",
+        "heroes",
+        "guest",
+        "gallery",
+        "medal",
+        "Olympics",
+        "World Cup",
+        "athlete"
+      ],
+      "details2025": [
+        [
+          "gallery",
+          3
+        ],
+        [
+          "athlete",
+          3
+        ],
+        [
+          "hero",
+          1
+        ],
+        [
+          "heroes",
+          1
+        ]
+      ],
+      "details2026": [
+        [
+          "medal",
+          9
+        ],
+        [
+          "heroes",
+          5
+        ],
+        [
+          "gallery",
+          4
+        ],
+        [
+          "Olympics",
+          3
+        ],
+        [
+          "World Cup",
+          3
+        ]
+      ],
+      "snippets2025": [
+        "Three years ago, Payton McNabb was an all-star high school athlete\u2014one of the best\u2014preparing for a future in college sports.",
+        "And to that end, I have created the brandnew Department of Government Efficiency\u2014DOGE\u2014perhaps you've heard of it\u2014perhaps\u2014which is headed by Elon Musk, who is in the gallery tonight.",
+        "Stephanie, we're going to make sure that Ryan knows his dad was a true hero\u2014New York's Finest."
+      ],
+      "snippets2026": [
+        "You're going to win bigger than ever.\" And to prove that point\u2014to prove that point, here with us tonight is a group of winners who just made the entire nation proud: the Men's Gold Medal Olympic Hockey Team.",
+        "men's Olympic hockey team entered the House Chamber wearing their gold medals.] Audience members.",
+        "[Laughter] It's called the highest civilian honor in our country: the Presidential Medal of Freedom."
+      ]
+    },
+    {
+      "bucket": "National Identity & Celebration",
+      "topic": "250th Anniversary",
+      "year2025": 4,
+      "year2026": 24,
+      "terms": [
+        "250th",
+        "July 4",
+        "independence",
+        "1776",
+        "anniversary",
+        "freedom",
+        "liberty"
+      ],
+      "details2025": [
+        [
+          "freedom",
+          2
+        ],
+        [
+          "independence",
+          1
+        ],
+        [
+          "liberty",
+          1
+        ]
+      ],
+      "details2026": [
+        [
+          "independence",
+          5
+        ],
+        [
+          "July 4",
+          4
+        ],
+        [
+          "freedom",
+          4
+        ],
+        [
+          "liberty",
+          4
+        ],
+        [
+          "250th",
+          3
+        ],
+        [
+          "1776",
+          3
+        ],
+        [
+          "anniversary",
+          1
+        ]
+      ],
+      "snippets2025": [
+        "For nearly 100 years, the Federal bureaucracy has grown until it has crushed our freedoms, ballooned our deficits, and held back America's potential in every possible way.",
+        "We do really value how much America has done to help Ukraine maintain its sovereignty and independence.",
+        "We stand on the shoulders of these pioneers who won and built the modern age, these workers who poured their sweat into the skylines of our cities, these warriors who shed their blood on fields of battle and gave everything they had for our rights and for our freedom."
+      ],
+      "snippets2026": [
+        "Less than 5 months from now, our country will celebrate an epic milestone in American history: the 250th anniversary of our glorious American independence.",
+        "This July 4, we will mark two and a half centuries of liberty and triumph, progress and freedom in the most incredible and exceptional nation ever to exist on the face of the Earth.",
+        "[Laughter] It's called the highest civilian honor in our country: the Presidential Medal of Freedom."
+      ]
+    },
+    {
+      "bucket": "National Identity & Celebration",
+      "topic": "American Dream",
+      "year2025": 10,
+      "year2026": 10,
+      "terms": [
+        "American dream",
+        "America is back",
+        "golden age",
+        "great again",
+        "winning",
+        "comeback"
+      ],
+      "details2025": [
+        [
+          "American dream",
+          3
+        ],
+        [
+          "great again",
+          3
+        ],
+        [
+          "golden age",
+          2
+        ],
+        [
+          "America is back",
+          1
+        ],
+        [
+          "comeback",
+          1
+        ]
+      ],
+      "details2026": [
+        [
+          "winning",
+          5
+        ],
+        [
+          "American dream",
+          3
+        ],
+        [
+          "golden age",
+          2
+        ]
+      ],
+      "snippets2025": [
+        "Six weeks ago, I stood beneath the dome of this Capitol and proclaimed the dawn of the golden age of America.",
+        "I return to this Chamber tonight to report that America's momentum is back, our spirit is back, our pride is back, our confidence is back, and the American dream is surging bigger and better than ever before.",
+        "The American dream is unstoppable, and our country is on the verge of a comeback, the likes of which the world has never witnessed and perhaps will never witness again."
+      ],
+      "snippets2026": [
+        "In fact, we're winning so much that we really don't know what to do about it.",
+        "Until you came along, we were just always losing, but now we're winning too much.\" [Laughter] And I say: \"No, no, no.",
+        "Another pillar of the American dream that has been under attack is homeownership."
+      ]
+    }
+  ]
+}
