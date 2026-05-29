@@ -47,7 +47,6 @@ fetch("data/topics.json").then(r => r.json()).then(raw => {
       <text x="${margin.left}" y="32" class="year-label">2026 State of the Union — upper bars</text>
       <text x="${margin.left}" y="${H-16}" class="year-label">2025 State of the Union — lower bars</text>
       <line x1="${margin.left}" x2="${W-margin.right}" y1="${midY}" y2="${midY}" class="midline"></line>
-      <text x="${W-255}" y="${midY-12}" class="small">same topic axis</text>
       <g id="plot"></g>
     </svg>`;
     const svg = chartEl.querySelector("svg");
